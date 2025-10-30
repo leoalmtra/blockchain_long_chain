@@ -1,0 +1,9 @@
+{
+  "node_id": "Leonardo",
+  "host": "192.168.196.236",
+  "port": 49567,
+  "difficulty": 4,
+  "reward": 10,
+  "blockchain_file": "db/blockchain.json",
+  "peers_file": "configs/peers.txt"
+}
